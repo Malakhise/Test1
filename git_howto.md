@@ -6,7 +6,7 @@
 
 # Перемещение по веткам
 
-git checkout <brench_name>
+git checkout <имя ветки>
 
 # Отображение всех веток
 
