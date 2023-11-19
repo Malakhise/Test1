@@ -15,7 +15,7 @@ git branch
 
 # Добавить новую ветку
 
-git branch имя
+git branch <имя_ветки>
 
 # Слияние веток
 git merge <имя_ветки>
