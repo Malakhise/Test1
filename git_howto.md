@@ -11,4 +11,7 @@
 git branch
 
 
+# Добавить новую ветку
+
+git branch имя
 
