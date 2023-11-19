@@ -17,3 +17,5 @@ git branch
 
 git branch имя
 
+# Слияние веток
+git merge <имя_ветки>
