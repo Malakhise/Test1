@@ -13,4 +13,7 @@ git checkout <имя ветки>
 git branch
 
 
+# Добавить новую ветку
+
+git branch имя
 
