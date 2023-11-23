@@ -10,7 +10,7 @@ git commit -m "описание коммита"
 
 ## Отображение коммитов
 
-git log --graph
+git log или git log --graph
 
 ## Перемещение по веткам
 
